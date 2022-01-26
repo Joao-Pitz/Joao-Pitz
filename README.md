@@ -1,4 +1,4 @@
-# Oá, sou o João!!! 👋
+# Olá, sou o João!!! 👋
 
 - 🔭 Atualmente estou á procura de uma oportunidade
 - 🌱 Reciclando lógica da programação
