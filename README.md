@@ -1,13 +1,11 @@
 # Olá, sou o João!!! 👋
 
 - 🔭 Atualmente estou á procura de uma oportunidade
-- 🌱 Reciclando lógica da programação
-- 🌎 Florianópolis - SC
-- 🌐 Links: https://campsite.bio/joao_vitor_pitz
+- 🌱 Estou reciclando a minha lógica da programação
+- 🌎 Resido em Florianópolis - SC
+- 🌐 Minha página de links: https://campsite.bio/joao_vitor_pitz
 
-##
-
-#My Skills
+# Meus conhecimentos: ⚡⚡
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
