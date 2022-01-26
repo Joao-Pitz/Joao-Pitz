@@ -20,7 +20,7 @@
   <img align="center" alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
     <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Picture" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D16AQE6vUeXlYS8eQ/profile-displaybackgroundimage-shrink_350_1400/0/1642877951924?e=1648684800&v=beta&t=2NWOg9R2I_nz0zEHCkaKepkfYEU3ryzBUa3fYFl1F0M">
 </div>
   
   ##
