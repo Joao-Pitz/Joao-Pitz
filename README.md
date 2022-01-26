@@ -5,11 +5,9 @@
 - 🌎 Florianópolis - SC
 - 🌐 Links: https://campsite.bio/joao_vitor_pitz
 
-<div align="center">
-  <a href="https://github.com/Joao-Pitz">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pitz&layout=compact&langs_count=7&theme=dark"/>
-</div>
+##
+
+#My Skills
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
@@ -23,7 +21,15 @@
 </div>
   
   ##
-
+  
+<div align="center">
+  <a href="https://github.com/Joao-Pitz">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pitz&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  ##
+  
   <div> 
   ![Snake animation](https://github.com/Joao-Pitz/Joao-Pitz/blob/output/github-contribution-grid-snake.svg)
 </div>
