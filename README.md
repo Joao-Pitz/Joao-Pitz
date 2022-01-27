@@ -6,7 +6,7 @@
 - 🌎 Resido em Florianópolis - SC
 - 🌐 Minha página de links: https://campsite.bio/joao_vitor_pitz
 
-# Meus conhecimentos: ⚡⚡
+# Meus conhecimentos: 👨‍💻
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
