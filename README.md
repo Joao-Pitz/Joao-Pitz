@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente estou á procura de uma oportunidade
 - 🌱 Estou reciclando a minha lógica da programação
+- 🎂 Tenho 19 anos
 - 🌎 Resido em Florianópolis - SC
 - 🌐 Minha página de links: https://campsite.bio/joao_vitor_pitz
 
